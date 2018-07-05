@@ -1,2 +1,2 @@
 # gitskills
-readme.
+readme. create a new is a easy thing.
