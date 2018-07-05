@@ -1,2 +1,2 @@
-# tgitskills
+# gitskills
 readme.
